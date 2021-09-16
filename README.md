@@ -7,4 +7,4 @@
 - What products are most often sold together?
 - What product sold the most? Why do you think it sold the most?
 
-Used pandas library to clean the data and matplotlib library to plot the data to find right answers.
+Used pandas library to clean the data and matplotlib library to plot the data to find the right answers.
